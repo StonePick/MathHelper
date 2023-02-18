@@ -82,7 +82,7 @@ def vec_cal_ang(vec1:tuple,vec2:tuple,sinmode:bool=0) -> float:
         return angsin
 
 #Vectors vertical judgement
-def vec_jud_ver(vec1:tuple,vec2:tuple,obj:tuple) -> bool:
+def vec_jud_ver(vec1:tuple,vec2:tuple) -> bool:
     mul = vec_cal_mul(vec1,vec2)
     if (mul == 0):
         return True
