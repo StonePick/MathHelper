@@ -1,4 +1,5 @@
-#This module is for vector processing.
+"""Vectors calculator. Legacy version. Supports 2D and 3D only."""
+
 import math
 
 #Define 2D vectors
