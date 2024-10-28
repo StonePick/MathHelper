@@ -4,7 +4,7 @@ A Python module for handling vectors calculations.
 # Features
 * Processes vectors as tuples.
 * Supports n-dimensional calculation.
-* Supports addition/subtraction, dot product and module, parallel and Vertical Judgment, cross product (3-dimension only).
+* Supports addition/subtraction, dot product and module, parallel and vertical judgment, cross product (3-dimension only).
 
 # Notes
 vec.py is the legacy version that supports up to 3D vectors. For richer features please import vecnd.py.
